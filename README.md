@@ -1,6 +1,6 @@
 # UIKit
 
-![UIKit Logo](https://static-00.iconduck.com/assets.00/uikit-icon-1768x2048-15mc115n.png)
+![UIKit Logo](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/349_Uikit-512.png)
 
 ##  controllers, storyboards, and the FileManager class.
 
